@@ -1,3 +1,5 @@
+## Removed from Roomorama project July 2015
+
 Database (e.g. MySql) :order=>'rand()' is slow.  
 
 Solution
